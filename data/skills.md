@@ -20,6 +20,14 @@
 ## Databases
 - PostgreSQL
 
+## Messaging
+- Kafka
+
+## Practices
+- CI/CD
+- Schema Driven Design
+- Agile
+
 ## Leadership
 - System Architecture
 - Engineering Management

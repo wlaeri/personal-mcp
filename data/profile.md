@@ -2,7 +2,9 @@
 
 **Title:** Principal Software Architect
 **Company:** Texture
-**Location:** New York, NY (Hybrid)
+**Location:** Jupiter, FL
+**Email:** wlaeri@gmail.com
+**GitHub:** https://github.com/wlaeri
 **LinkedIn:** https://www.linkedin.com/in/wlaeri/
 **Website:** https://willlaeri.com
 

@@ -3,7 +3,7 @@
 ## Principal Software Architect — Texture
 - **Type:** Full-time
 - **Dates:** Jun 2023 – Present
-- **Location:** New York, NY (Hybrid)
+- **Location:** Jupiter, FL (Remote)
 - **Stage:** Founding engineer and first hire. Now a Series B company.
 
 Texture is an AI-native platform for real-time energy operations coordination.
@@ -13,11 +13,11 @@ across the distributed energy grid. Texture bridges the gap between information
 and action by providing live data access, monitoring, and workflow automation
 for the modern electric grid.
 
-## Principal Software Architect — Extra Card
+## Principal Software Architect — Extra
 - **Type:** Full-time
 - **Dates:** Jul 2022 – Jul 2023
-- **Location:** New York, NY
-- **Stage:** Joined during the seed stage. Extra was later acquired by Orchard.
+- **Location:** Jupiter, FL (Remote)
+- **Stage:** Acquired by Orchard in August 2023.
 
 Extra is a fintech company that offers a debit card designed to help users build
 credit without a traditional credit card. Customers make purchases with their
@@ -52,3 +52,36 @@ clients. Unlike coworking spaces, Knotel exclusively served corporations with
 short-term leases as a flexible alternative to traditional long-term office
 leases. At its peak, Knotel operated in 250 buildings across 17 cities on 4
 continents, with clients including DraftKings, Omnicom, and Twilio.
+
+## Fullstack Engineer — Zygote
+- **Type:** Full-time
+- **Dates:** May 2016 – Aug 2018
+- **Location:** New York, NY
+
+Built React and React Native apps for companies big and small. Projects included
+streaming video platforms, e-commerce sites, mobile apps, and online marketplaces.
+
+## Investment Associate — Argus Research
+- **Type:** Full-time
+- **Dates:** May 2013 – May 2016
+- **Location:** New York, NY
+
+Served as a member of the investment committee for the RIA business that managed
+$250mm in institutional assets. Authored equity research reports and weekly market
+commentary.
+
+# Volunteer Experience
+
+## Mentor — SSC Venture Partners
+- **Type:** Volunteer
+- **Dates:** Apr 2022 – Present
+- **Location:** Remote / Boston, MA
+
+Helping companies in the venture startup accelerator program go from 0 to 1.
+
+## Mentor — Cornell Tech
+- **Type:** Volunteer
+- **Dates:** May 2022 – Feb 2023
+- **Location:** Remote / New York, NY
+
+Helped graduate students scale their school projects into software businesses.

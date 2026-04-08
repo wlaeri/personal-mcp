@@ -1,12 +1,14 @@
 # Education
 
 ## Fullstack Academy
-- **Program:** Immersive Software Engineering Program
-- **Year:** 2016
+- **Program:** Web Development Immersive
+- **Dates:** May 2016 – Aug 2016
+- **Location:** New York, NY
 
 ## Boston College
-- **Degree:** Bachelor of Arts (BA), Economics
-- **Years:** 2009 – 2014
+- **Degree:** BA Economics
+- **Dates:** Aug 2009 – May 2014
+- **Location:** Chestnut Hill, MA
 
 # Licenses & Certifications
 
